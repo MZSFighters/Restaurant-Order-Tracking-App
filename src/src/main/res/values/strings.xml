@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrderTracker</string>
+    <string name="thumbsup"><node>&#x1f44d;</node></string>
+    <string name="thumbsdown"><node>&#128078;</node></string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple_700"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Please select what you want to do below"
+            android:textColor="#F57C00"
+            android:layout_marginBottom="16dp"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/buttonViewC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View your Orders"
+            android:textColor="#F57C00" />
+
+        <Button
+            android:id="@+id/buttonBackC1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:textColor="#F57C00" />
+
+        <TextView
+            android:id="@+id/testTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
