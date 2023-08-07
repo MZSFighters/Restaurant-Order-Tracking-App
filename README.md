@@ -14,10 +14,13 @@
 
 
 ## General Information
-- Provide general information about your project here.
+- Restaurant Order Tracking project is a Mobile Application which allows customers and the staff members of a restaurant to create accounts on the app so that the staff members can add orders remotely on the app and update order statuses while the customers can track their orders, view order information as well as rate the overall experience of the service.  
 - What problem does it (intend to) solve?
+ It solves the problem of waiting
 - What is the purpose of your project?
+ It is to create an online platform for the tracking of Orders
 - Why did you undertake it?
+ I never really had a choice. It was randomly provided as the project to fulfill for my Mobile Computing and Database Fundamentals courses. However, I have to say that I enjoyed working on this project a lot.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -43,7 +46,10 @@
 ## Setup
 Getting started with the project...
 
-In order to run the project, one would need to install Android Studio and open the project in Android Studio.
+- In order to run the project, one would need to install Android Studio and open the project in Android Studio. Thereafter, it is quite easy to run the app through device manager and the emulator in Android Studio.
+- If one would like to download this app on their device, they can simply download the apk file.
+
+
 
 
 
