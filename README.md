@@ -28,10 +28,11 @@
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+
+- A well secured and authenticated login and signup system
+- A staff member is able to add an order as well as update order status
+- A customer able to view the order details and give service feedback
+
 
 
 ## Screenshots
@@ -41,6 +42,7 @@ List the ready features here:
 
 ## Setup
 Getting started with the project...
+
 In order to run the project, one would need to install Android Studio and open the project in Android Studio.
 
 
@@ -59,7 +61,7 @@ This project was a university project for Computer Science. We had to develop a 
 
 ## Acknowledgements
 
-- This project was inspired by Pravesh Ranchod (Lecturer at University of the Witwatersrand
+- This project was inspired by Pravesh Ranchod (Lecturer at University of the Witwatersrand)
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to Muhammed Omar
 
