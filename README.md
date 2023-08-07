@@ -9,7 +9,7 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
- <img src = "./images/app_on_phone.jpg" alt = "App Logo" width = 200 height = 400 title = "App Logo">
+ <img src = "./images/app_on_phone.jpg" align="right" alt = "App Logo" width = 200 height = 400 title = "App Logo">
 
 <!-- * [License](#license) -->
 
