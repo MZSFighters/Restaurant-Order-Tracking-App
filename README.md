@@ -40,7 +40,7 @@ List the ready features here:
 
 
 ## Setup
-/ setup one's local environment / get started with the project.
+Getting started with the project...
 In order to run the project, one would need to install Android Studio and open the project in Android Studio.
 
 
@@ -49,7 +49,8 @@ In order to run the project, one would need to install Android Studio and open t
 
 
 ## Project Status
-Project is:_no longer being worked on_
+Project is: _no longer being worked on_
+
 This project was a university project for Computer Science. We had to develop a Mobile App as part of our academic modules. It was meant to be worked on for a few months only and the database of the application was held on the university's servers. Hence, this project is no longer worked on and most of it is no longer functional, especially after the database had been removed from the servers.
 
 
