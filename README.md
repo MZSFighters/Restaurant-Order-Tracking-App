@@ -1,7 +1,9 @@
 # Restaurant-Order-Tracking-App
 
-<img src = "./images/app_on_phone.jpg" align="right" alt = "App Logo" width = 100 height = 100 title = "App Logo">
+
 ## Table of Contents
+<img src = "./images/app_on_phone.jpg" align="right" alt = "App Logo" width = 100 height = 100 title = "App Logo">
+
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
