@@ -40,6 +40,7 @@
 
 ## Screenshots
 ![Example screenshot](./images/login_homepage.jpg)
+<img src = "./images/login_homepage.jpg" alt = "Login Page" width = 100 height = 200 title = "Login Page">
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
