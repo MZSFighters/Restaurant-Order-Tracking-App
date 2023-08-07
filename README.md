@@ -39,7 +39,7 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./images/login_homepage.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
