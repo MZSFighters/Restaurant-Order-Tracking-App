@@ -1,6 +1,6 @@
 # Restaurant-Order-Tracking-App
 
-
+<p float="left">
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -9,7 +9,8 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
-
+ <img src = "./images/app_on_phone.jpg" alt = "App Logo" width = 200 height = 400 title = "App Logo">
+</p>
 <!-- * [License](#license) -->
 
 
