@@ -76,7 +76,6 @@ This project was a university project for Computer Science. We had to develop a 
 ## Acknowledgements
 
 - This project was inspired by Pravesh Ranchod (Lecturer at University of the Witwatersrand)
-- This project was based on [this tutorial](https://www.example.com).
 - Many thanks to Muhammed Omar
 
 
