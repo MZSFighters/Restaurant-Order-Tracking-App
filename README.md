@@ -39,8 +39,11 @@
 
 
 ## Screenshots
-![Example screenshot](./images/login_homepage.jpg)
-<img src = "./images/login_homepage.jpg" alt = "Login Page" width = 100 height = 200 title = "Login Page">
+
+<img src = "./images/login_homepage.jpg" alt = "Login Page" width = 200 height = 400 title = "Login Page">
+<img src = "./images/order_status.jpg" alt = "Order Status" width = 200 height = 400 title = "Order Status">
+<img src = "./images/staff_order_creation.jpg" alt = "Add Order" width = 200 height = 400 title = "Add Order">
+<img src = "./images/new_acc_creation.jpg" alt = "SignUp Page" width = 200 height = 400 title = "Signup Page">
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
