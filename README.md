@@ -15,12 +15,12 @@
 
 ## General Information
 - Restaurant Order Tracking project is a Mobile Application which allows customers and the staff members of a restaurant to create accounts on the app so that the staff members can add orders remotely on the app and update order statuses while the customers can track their orders, view order information as well as rate the overall experience of the service.  
-- _What problem does it (intend to) solve?_
-- It solves the problem of waiting 
-- _What is the purpose of your project?_
-- It is to create an online platform for the tracking of orders at restaurants. This helps the customers to track their orders from anywhere, anytime.  
-- _Why did you undertake it?_
-- I never really had a choice. It was randomly provided as the project to fulfill for my Mobile Computing and Database Fundamentals courses. However, I have to say that I enjoyed working on this project a lot.
+ _What problem does it (intend to) solve?_
+ It solves the problem of waiting 
+ _What is the purpose of your project?_
+ It is to create an online platform for the tracking of orders at restaurants. This helps the customers to track their orders from anywhere, anytime.  
+ _Why did you undertake it?_
+ I never really had a choice. It was randomly provided as the project to fulfill for my Mobile Computing and Database Fundamentals courses. However, I have to say that I enjoyed working on this project a lot.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
